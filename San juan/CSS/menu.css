@@ -1,0 +1,111 @@
+.logout{
+    height: 20px;
+}
+
+.logout:hover{
+    cursor: pointer;
+}
+
+.nav-link{
+    color: #ff7900;
+}
+
+.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ff7900;
+    margin-top: 30px;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #2d3975;
+}
+
+
+.saju{
+ display: block;
+ margin: 0px auto;
+ margin-top: 150px;
+ width: 400px;
+}
+
+#educativas{
+    display: none;
+    align-items: center;
+}
+
+#sociales{
+    display: none;
+    align-items: center;
+}
+
+#comercio{
+    display: none;
+    align-items: center;
+}
+
+#nube{
+    display: none;
+    align-items: center;
+}
+
+#audiovisuales{
+    display: none;
+    align-items: center;
+}
+
+#introduccion{
+    display: none;
+    align-items: center;
+}
+#caracteristicas{
+    display: none;
+    align-items: center;
+}
+
+
+
+.titulos{
+    margin-top: 15px;
+    margin-left: 500px;
+}
+
+.parrafos{
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.imagesaju1{
+    display: none;
+}
+
+.imagesaju2{
+    display: none;
+}
+.imagesaju3{
+    display: none;
+}
+.imagesaju4{
+    display: none;
+}
+.imagesaju5{
+    display: none;
+}
+.parrafos1{
+    font-size: x-large;
+    margin-left: 60px;
+}
